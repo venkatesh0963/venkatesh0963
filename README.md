@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Venkatesh
 
-### Engineering UX Designer | Full Stack Developer | Building Useful Products
+### Engineering | Full Stack Developer | Building Useful Products
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Engineering+UX+Designer;Full+Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Building+Modern+Web+Applications" />
 
@@ -93,8 +93,8 @@ A management platform for handling student records.
 ## 🤝 Connect With Me
 
 - 🌐 Portfolio: https://www.mvenkatesh96.xyz
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 📧 Email: mrvenkatesh0963@gmail.com
+- 💼 LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/venkatesh-b-172505353)
 
 ---
 
