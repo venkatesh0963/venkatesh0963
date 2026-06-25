@@ -94,7 +94,7 @@ A management platform for handling student records.
 
 - 🌐 Portfolio: https://www.mvenkatesh96.xyz
 - 📧 Email: mrvenkatesh0963@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/venkatesh-b-172505353)
+- 💼 LinkedIn: https://www.linkedin.com/in/venkatesh-b-172505353
 
 ---
 
