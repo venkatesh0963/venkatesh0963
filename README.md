@@ -4,7 +4,7 @@
 
 ### Engineering Student | Full Stack Developer | Building Useful Products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Engineering+UX+Designer;Full+Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Building+Modern+Web+Applications" />
 
 </div>
 
