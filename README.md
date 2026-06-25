@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Venkatesh
 
-### Engineering | Full Stack Developer | Building Useful Products
+### Engineering Student | Full Stack Developer | Building Useful Products
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Engineering+UX+Designer;Full+Stack+Developer;JavaScript+%7C+Python+%7C+TypeScript;Building+Modern+Web+Applications" />
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎨 Engineering UX Designer focused on intuitive user experiences
+- 🎨 Engineering Student focused on intuitive user experiences
 - 💻 Full Stack Developer passionate about modern web technologies
 - 🌱 Currently improving my skills in scalable applications and UI engineering
 - 📌 Interested in Web Development, Product Design, and Developer Tools
