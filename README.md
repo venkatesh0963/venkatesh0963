@@ -42,7 +42,6 @@
 
 ### 🧮 Neon car game
 A vibrant, open-world 3D driving simulator built on the web. 
-Demo Link : https://neon-car-game-gray.vercel.app/
 
 ### 💰 Expense Tracker AI
 Track expenses and analyze spending habits intelligently.
