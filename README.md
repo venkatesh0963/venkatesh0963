@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 🎨 Engineering Student focused on intuitive user experiences
-- 💻 Full Stack Developer passionate about modern web technologies
-- 🌱 Currently improving my skills in scalable applications and UI engineering
-- 📌 Interested in Web Development, Product Design, and Developer Tools
-- ⚡ I enjoy turning ideas into functional products
+- 🎨 Engineering Student focused on intuitive user experiences.
+- 💻 Full Stack Developer passionate about modern web technologies.
+- 🌱 Currently improving my skills in scalable applications and UI engineering.
+- 📌 Interested in Web Development, Product Design, and Developer Tools.
+- ⚡ I enjoy turning ideas into functional products.
 
 ---
 
