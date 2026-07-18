@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Venkatesh.....
+# Hi 👋, I'm Venkatesh..
 
 ### Engineering Student | Full Stack Developer | Building Useful Products
 
