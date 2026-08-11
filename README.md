@@ -18,7 +18,7 @@
 - 📌 Interested in Web Development, Product Design, and Developer Tools.
 - ⚡ I enjoy turning ideas into functional products.
 
----
+--
 
 ## 🛠 Tech Stack
 
