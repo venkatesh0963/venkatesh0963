@@ -80,7 +80,7 @@ A management platform for handling student records.
 - 📧 Email: mrvenkatesh0963@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/venkatesh-b-172505353
 
------
+----
 
 <div align="center">
 
