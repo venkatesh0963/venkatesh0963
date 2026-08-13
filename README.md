@@ -72,7 +72,7 @@ A management platform for handling student records.
 - ✅ Made **81+ commits**
 - 🚀 Consistently building and shipping projects
 
---
+---
 
 ## 🤝 Connect With Me
 
